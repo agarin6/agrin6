@@ -16,6 +16,7 @@ I am reliable, hard working and an enthusiastic individual with a great passion 
 1. C#
 2. T-SQL (Microsoft SQL Server, Microsoft Access)
 3. Football skills  
+4. Painting skills
 ---
 > ### Language Skills:
 1. English Level: A2 (According to EPAM English Test), B1 (According to A1QA English Speaking and Grammar Test)
